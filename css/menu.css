@@ -12,7 +12,7 @@ margin: 0px;
 
 .title{
 	background-color:  rgb(161, 156, 156);
-	background-image: url("../img/Fondos/fondoa.jpg");
+	background-image: url("../img/fondos/fondoa.jpg");
 	height: 370px;
 	gap:10px;
 	display: flex;
