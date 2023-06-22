@@ -191,7 +191,7 @@ background-color: rgb(250, 246, 246);
 
 @media (max-width:800px){
     .container{
-        height: 4600px;  
+        height: 3720px;  
     }
     .caja{
        display: grid;
